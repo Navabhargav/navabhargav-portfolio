@@ -1,5 +1,5 @@
 # Nava Bhargav Gedda  
-**London, UK** | **07741944719** | **navabhargavg@gmail.com** | [GitHub](https://github.com/Navabhargav) | [LinkedIn](#)  
+**London, UK** | **07741944719** | **navabhargavg@gmail.com** | [GitHub](https://github.com/Navabhargav) | [LinkedIn](https://www.linkedin.com/in/nava-bhargav/)  
 
 ---
 
