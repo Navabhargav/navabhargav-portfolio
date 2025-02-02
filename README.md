@@ -21,19 +21,19 @@ I am a **Data Engineer** and **Business Analytics graduate student** at Queen Ma
 ### 1. Predictive Analysis of Airbnb Listing Prices in New York City  
 - **Description**: Analyzed 50,000+ listings to predict pricing trends using Python and machine learning.  
 - **Tools**: Scikit-learn, TensorFlow, PCA  
-- **GitHub Link**: [Airbnb Analysis](#)  
+- **GitHub Link**: [Airbnb Analysis](https://github.com/Navabhargav/Airbnb-price-prediction)  
 
 ### 2. Bloomberg Financial Analytics Visual Dashboard  
 - **Description**: Built stock price prediction models and interactive dashboards for investment decision-making.  
 - **Tools**: ARIMA, LSTM, Tableau  
-- **GitHub Link**: [Bloomberg Dashboard](#)  
+- **GitHub Link**: [Bloomberg Dashboard](https://github.com/Navabhargav/Bloomberg)  
 
 ---
 
 ## **Resume**  
-Download my resume: [Resume.pdf](#)  
+Download my resume: [Resume.pdf](https://github.com/Navabhargav/navabhargav-portfolio/blob/main/Nava_Bhargav_Gedda_Resume.docx)  
 
 ---
 
 ## **Contact Me**  
-Let’s connect! Reach out at **navabhargavg@gmail.com** or **07741944719**.  
+Let’s connect! Reach out at **navabhargavg@gmail.com** or **+447741944719**.  
